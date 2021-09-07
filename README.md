@@ -1,7 +1,7 @@
 # Hi there, I'm John (JB) 🤝
 I'm a network/cybersecurity architect that is interested in learning more about defenseive cyber techniques and detections. I'd also like to focus some of my future studies on cloud automation. 
 
-For fun, I spend a lot of time creating IT/cyber content for folks just getting into the industry, specifically practical lab walkthrough videos on networking, hacking, Linux, and other cybersecurity topis. You can find my video content on my [CyberInsight](https://youtube.com/c/cyberinsight) YouTube channel and my blog postings [here](jbcsec.com/insights).
+For fun, I spend a lot of time creating IT/cyber content for folks just getting into the industry, specifically practical lab walkthrough videos on networking, hacking, Linux, and other cybersecurity topics. You can find my video content on my [CyberInsight](https://youtube.com/c/cyberinsight) YouTube channel and my blog postings [here](jbcsec.com/insights).
 
 If you'd like to chat, you can find me on [Twitter](https://twitter.com/jbizzle703) and [LinkedIn](https://www.linkedin.com/in/john-breth-730b7755/).
 
