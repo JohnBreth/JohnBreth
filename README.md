@@ -9,7 +9,7 @@ If you'd like to chat, you can find me on [Twitter](https://twitter.com/jbizzle7
     <a href="https://twitter.com/jbizzle703"><img src="https://img.shields.io/twitter/follow/jbizzle703?style=for-the-badge&logo=twitter&logoColor=ffffff&labelColor=1a1a1a&color=53B1A8"></a>
     <a href="https://youtube.com/c/cyberinsight"><img src="https://img.shields.io/youtube/channel/subscribers/UCmJJUewPWfnyzvZRrFHlykA?style=for-the-badge&logo=youtube&logoColor=ffffff&labelColor=1a1a1a&color=53B1A8"></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnBreth&layout=compact&theme=react)](https://github.com/JohnBreth)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnBreth&layout=compact&theme=react)](https://github.com/JohnBreth) [![JohnBreth's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JohnBreth)](https://github.com/anuraghazra/github-readme-stats)
     
 #
 
